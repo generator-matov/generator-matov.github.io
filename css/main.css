@@ -1,5 +1,5 @@
 body{
-	background-color: #2A2A2A;
+	background-color: #6d6875;
 }
 
 .all{
@@ -40,16 +40,15 @@ body{
 }
 
 .generatebutton {
-	box-shadow:inset 0px 39px 0px -24px #e67a73;
-	background-color:#e4685d;
+	border-radius: 50px;
+	background-color:#b5838d;
 	display:inline-block;
 	cursor:pointer;
-	color:#ffffff;
+	color: white;
 	font-family: 'Source Sans Pro', sans-serif;
 	font-size:50px;
 	padding:6px 15px;
 	text-decoration:none;
-	text-shadow:0px 1px 0px #b23e35;
 }
 .generatebutton:hover {
 	background-color:#eb675e;
