@@ -3,7 +3,7 @@ body{
 }
 
 .all{
-	padding-top: 40%
+	padding-top: 30%
 }
 
 .main{
@@ -50,6 +50,7 @@ body{
 	padding:6px 15px;
 	text-decoration:none;
 }
+
 .generatebutton:active {
 	position:relative;
 	top:1px;
