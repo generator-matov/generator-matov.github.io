@@ -50,9 +50,6 @@ body{
 	padding:6px 15px;
 	text-decoration:none;
 }
-.generatebutton:hover {
-	background-color:#eb675e;
-}
 .generatebutton:active {
 	position:relative;
 	top:1px;
